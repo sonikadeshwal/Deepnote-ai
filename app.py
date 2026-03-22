@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # ─── API Config ─────────────────────────────────────────────────────────────
-GROQ_API_KEY = "your_groq_api_key_here"   # 🔑 Replace with your Groq API key
+GROQ_API_KEY = "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"   # 🔑 Replace with your Groq API key
 GROQ_MODEL   = "llama-3.3-70b-versatile"
 
 # ─── CSS ────────────────────────────────────────────────────────────────────
